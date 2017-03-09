@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "755122356565",
+    "project_id": "steam-state-160706"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:755122356565:android:fcbbc251847ba120",
+        "android_client_info": {
+          "package_name": "com.google_sample.technorio.googleloginsample"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "755122356565-fshlhpgbm77oa8soho9habrtdivqok3d.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "755122356565-lvbgp8cjrae4aeglbg7sissc3o9c5sj1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.google_sample.technorio.googleloginsample",
+            "certificate_hash": "b92491a92d0d6ea7e43571f6f2971f72f1d325b7"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAIUF8GijbFnp7eFRbeLjlxaySw4c9bAhw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
